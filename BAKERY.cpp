@@ -145,8 +145,7 @@ gotoxy(64,5);
 cout<<"NET AMOUNT";
 }
 }
- 
-void amount::pay()
+ void amount::pay()
 {show();
 cout<<"\n\n\n\t\t*********************************************";
 cout<<"\n\t\t                 DETAILS                  ";
